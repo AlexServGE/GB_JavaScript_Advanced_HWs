@@ -1,0 +1,29 @@
+body {
+  background-color: rgb(83, 63, 171);
+}
+
+.add-button {
+  width: 600px;
+  height: 80px;
+  border-radius: 16px;
+  border: transparent;
+  background-color: #eb6513;
+  align-self: center;
+}
+
+.add-review-block {
+  display: flex;
+  flex-flow: column;
+  width: 600px;
+  margin: 0 auto;
+  gap: 30px;
+  padding: 40px;
+}
+
+.product-name-input{
+  height: 100px;
+}
+
+.product-review-text{
+  height: 500px;
+}
